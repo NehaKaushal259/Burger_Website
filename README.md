@@ -1,16 +1,45 @@
-# React + Vite
+# 🍔 Burger 
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
 
-Currently, two official plugins are available:
+## ✨ About    
+The Burger Website is a modern and fully responsive food ordering frontend application built using ⚛️ React and 🎨 Tailwind CSS.
+This project was created to practice real-world frontend development concepts such as responsive design, reusable components, interactive UI, and modern website layouts.
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Oxc](https://oxc.rs)
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/)
+The website includes 🍟 a stylish homepage, 📱 responsive navigation bar, 🍔 burger menu section, ✨ attractive food cards, and 📲 mobile-friendly design to provide a smooth user experience across all devices.
 
-## React Compiler
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
+## 🚀 Features
 
-## Expanding the ESLint configuration
+``` text
+📱 Responsive Navbar
+🍔 Mobile Menu Toggle
+🎨 Modern UI Design
+💻 Fully Responsive Layout
+♻️ Reusable React Components
+⚡ Fast Performance with Vite
+📂 Clean and Organized Code Structure
+✨ Interactive User Interface
+``` 
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+## 🛠️ Tech Stack
+
+``` text
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
+```
+
+## ✨ Screentshorts
+
+<p align="center">
+    <img src="./images/image1.png" width="45%" />
+    <img src="./images/image2.png" width="45%" />
+</p>
+<p align="center">
+    <img src="./images/image3.png" width="45%" />
+    <img src="./images/image4.png" width="45%" />
+</p>
+
+
+## 🎯 Purpose of the Project
+
+The main purpose of this project is to improve frontend development skills by building a real-world responsive food website using modern web technologies and component-based architecture.
