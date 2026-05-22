@@ -42,3 +42,21 @@ The website includes 🍟 a stylish homepage, 📱 responsive navigation bar, �
 ## 🎯 Purpose of the Project
 
 The main purpose of this project is to improve frontend development skills by building a real-world responsive food website using modern web technologies and component-based architecture.
+
+## 📂 Folder Structure
+``` text
+│
+├── images
+├── public
+├── src
+├── .gitignore
+├── esllint.config.js
+├── index.html
+├── package-lock.json
+├── package.json
+├── postcss.config.js
+├── README.md
+├── tailwind.config.js
+└── vite.config.js
+
+```
