@@ -2,10 +2,10 @@
 
 
 ## ✨ About    
-The Burger Website is a modern and fully responsive food ordering frontend application built using ⚛️ React and 🎨 Tailwind CSS.
-This project was created to practice real-world frontend development concepts such as responsive design, reusable components, interactive UI, and modern website layouts.
+Burger Website is a state-of-the-art food ordering website that has been designed using the frontend technologies of ⚛️ React and 🎨 Tailwind CSS.
+This project has been developed for the purpose of practicing real-world front-end development concepts like responsive web design, reusability, interactive UI, and modern layouts.
 
-The website includes 🍟 a stylish homepage, 📱 responsive navigation bar, 🍔 burger menu section, ✨ attractive food cards, and 📲 mobile-friendly design to provide a smooth user experience across all devices.
+The features include 🍟 an impressive homepage, 📱 responsive navigation bar, 🍔 burger menu section, ✨ attractive food cards, and 📲 mobile-friendly design to provide a smooth user experience across all devices.
 
 
 ## 🚀 Features
@@ -28,7 +28,7 @@ The website includes 🍟 a stylish homepage, 📱 responsive navigation bar, �
 ![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
 
-## ✨ Screentshorts
+## ✨ Screenshots
 
 <p align="center">
     <img src="./images/image1.png" width="45%" />
