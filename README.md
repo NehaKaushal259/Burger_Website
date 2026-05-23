@@ -2,7 +2,7 @@
 
 
 ## ✨ About    
-Burger Website is a state-of-the-art food ordering website that has been designed using the frontend technologies of ⚛️ React and 🎨 Tailwind CSS.
+Burger Website is a modern and fully responsive food ordering website that has been designed using the frontend technologies of ⚛️ React and 🎨 Tailwind CSS.
 This project has been developed for the purpose of practicing real-world front-end development concepts like responsive web design, reusability, interactive UI, and modern layouts.
 
 The features include 🍟 an impressive homepage, 📱 responsive navigation bar, 🍔 burger menu section, ✨ attractive food cards, and 📲 mobile-friendly design to provide a smooth user experience across all devices.
